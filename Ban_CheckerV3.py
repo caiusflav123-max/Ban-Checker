@@ -89,7 +89,7 @@ def banner():
         f"     {R}██╔══██╗██╔══██║██║╚██╗██║  {RST}  ",
         f"     {R}██████╔╝██║  ██║██║ ╚████║  {RST}  ",
         f"     {R}╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝  {RST}  ",
-        f"     {Y}      C H E C K E R         {RST}  ",
+        f"     {Y}         C H E C K          {RST}  ",
     ]
     print()
     print(box_top)
