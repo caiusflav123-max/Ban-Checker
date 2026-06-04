@@ -9,6 +9,9 @@ BAN_API_KEY = "jUWCzg1ZhJFOE3v1HY_skHImy-hrJ9CoLQ-awa1rK9w"
 
 V2L_API_URL = "https://checkton.online/backend/v2l"
 V2L_API_KEY = "tKEIiMaaXZiXgBaa-3ytHnSMOWFsG8ZjaiLHJL9t0rs"
+GITHUB_VERSION_URL = "https://raw.githubusercontent.com/caiusflav123-max/Ban-Checker/main/version.txt"
+GITHUB_FILE_URL = "https://raw.githubusercontent.com/caiusflav123-max/Ban-Checker/main/Ban_CheckerV3.py"
+LOCAL_VERSION = "1.0.0"
 
 BAN_HEADERS = {
     "Content-Type": "application/json",
